@@ -1,4 +1,3 @@
-from numpy import place
 import spacy
 import streamlit as st
 from spacy_streamlit import visualize_ner
@@ -17,10 +16,7 @@ nlp = spacy.load("en_core_web_sm")
 ruler = nlp.add_pipe("entity_ruler", before="ner")
 ruler.from_disk("data/patterns.jsonl")
 
-
-with open('data/sample_description.txt', 'r') as f:
-    description = f.read()
-
+description = "Built with love 💙 Python, Spacy, Streamlit and Hugging Face 🤗"
 text = st.text_area(label='Job Description', value=description, placeholder='Please enter a job description')
 
 doc = nlp(text)

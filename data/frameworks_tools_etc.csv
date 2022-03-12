@@ -1,12 +1,9 @@
 name
 TensorFlow
 PyTorch
-scikit-learn
-Spark ML
-Spark MLib
 Spark MLlib
 Torch
-Huggingface
+Transformers
 Keras
 AutoML
 Microsoft Cognitive Toolkit
@@ -20,15 +17,17 @@ fastText
 Dlib
 Theano
 Scipy
+Scikit learn
 Scikit-learn
 Pandas
+Numpy
 Matplotlib
 Plotly
 NLTK
 Natural Language Toolkit (NLTK)
-Natural Language Toolkit
 MlPack
 MXNet
 spaCy
 Docker
 Docker Container
+Streamlit
