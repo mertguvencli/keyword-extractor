@@ -1,0 +1,1200 @@
+{"label":"DATABASE","pattern":[{"lower":"oracle"},{"lower":"database"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"mysql"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"microsoft"},{"lower":"sql"},{"lower":"server"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"postgresql"},{"lower":"(free"},{"lower":"software)"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"ibm"},{"lower":"db2"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"microsoft"},{"lower":"access"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"sqlite"},{"lower":"(free"},{"lower":"software)"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"mariadb"},{"lower":"(free"},{"lower":"software)"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"microsoft"},{"lower":"azure"},{"lower":"sql"},{"lower":"database"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"apache"},{"lower":"hive"},{"lower":"(free"},{"lower":"software)"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"snowflake"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"teradata"},{"lower":"vantage"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"allegrograph"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"amazon"},{"lower":"neptune"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"anzograph"},{"lower":"db"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"arangodb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"datastax"},{"lower":"enterprise"},{"lower":"graph"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"dgraph"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"grakn"},{"lower":"core"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"infinitegraph"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"janusgraph"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"marklogic"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"microsoft"},{"lower":"sql"},{"lower":"server"},{"lower":"2017"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"nebula"},{"lower":"graph"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"neo4j"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"ontotext"},{"lower":"graphdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"openlinkvirtuoso"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"oracle"},{"lower":"rdf"},{"lower":"graph;"},{"lower":"part"},{"lower":"of"},{"lower":"oracle"},{"lower":"database"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"oracle"},{"lower":"property"},{"lower":"graph;"},{"lower":"part"},{"lower":"of"},{"lower":"oracle"},{"lower":"database"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"orientdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"rdfox"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"redisgraph"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"sap"},{"lower":"hana"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"sparksee"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"sqrrlenterprise"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"stardog"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"teradata"},{"lower":"aster"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"terminusdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"tigergraph"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"apache"},{"lower":"accumulo"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"apache"},{"lower":"cassandra"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"apache"},{"lower":"hbase"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"bigtable"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"datastax"},{"lower":"enterprise"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"datastax"},{"lower":"astra"},{"lower":"db"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"hypertable"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"azure"},{"lower":"tables"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"scylla"},{"lower":"(database)"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"apache"},{"lower":"ignite"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"couchbase"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"coherence"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"extreme"},{"lower":"scale"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"hazelcast"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"infinispan"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"memcached"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"redis"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"velocity"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"azure"},{"lower":"cosmos"},{"lower":"db"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"arangodb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"amazon"},{"lower":"dynamodb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"aerospike"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"couchbase"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"azure"},{"lower":"cosmos"},{"lower":"db"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"oracle"},{"lower":"nosql"},{"lower":"database"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"riak"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"voldemort"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"foundationdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"infinitydb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"lmdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"memcachedb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"apache"},{"lower":"river"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"gigaspaces"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"tarantool"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"tibco"},{"lower":"activespaces"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"openlink"},{"lower":"virtuoso"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"allegrograph"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"marklogic"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"ontotext-owlim"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"oracle"},{"lower":"nosql"},{"lower":"database"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"profium"},{"lower":"sense"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"virtuoso"},{"lower":"universal"},{"lower":"server"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"objectivity/db"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"perst"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"zopedb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"db4o"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"gemstone/s"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"intersystems"},{"lower":"cach"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"jade"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"objectdatabase++"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"objectdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"objectstore"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"odaba"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"realm"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"openlink"},{"lower":"virtuoso"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"versant"},{"lower":"object"},{"lower":"database"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"zodb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"azure"},{"lower":"cosmos"},{"lower":"db"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"arangodb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"basex"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"clusterpoint"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"couchbase"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"couchdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"documentdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"exist-db"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"ibm"},{"lower":"domino"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"marklogic"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"mongodb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"qizx"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"rethinkdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"elasticsearch"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"orientdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"azure"},{"lower":"cosmos"},{"lower":"db"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"amazon"},{"lower":"dynamodb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"bigtable"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"cassandra"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"google"},{"lower":"cloud"},{"lower":"datastore"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"hbase"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"hypertable"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"scylladb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"arangodb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"azure"},{"lower":"cosmos"},{"lower":"db"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"orientdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"marklogic"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"apache"},{"lower":"ignite"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"[22][23]"},{"lower":"couchbase"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"foundationdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"marklogic"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"oracle"},{"lower":"database"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"azure"},{"lower":"cosmos"},{"lower":"db"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"allegrograph"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"arangodb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"infinitegraph"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"apache"},{"lower":"giraph"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"marklogic"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"neo4j"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"orientdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"virtuoso"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"d3"},{"lower":"pick"},{"lower":"database"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"extensible"},{"lower":"storage"},{"lower":"engine"},{"lower":"(ese/nt)"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"infinitydb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"intersystems"},{"lower":"cach"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"jbase"},{"lower":"pick"},{"lower":"database"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"mvbase"},{"lower":"rocket"},{"lower":"software"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"mventerprise"},{"lower":"rocket"},{"lower":"software"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"northgate"},{"lower":"information"},{"lower":"solutions"},{"lower":"reality"},{"lower":"(the"},{"lower":"original"},{"lower":"pick/mv"},{"lower":"database)"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"openqm"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"revelation"},{"lower":"software's"},{"lower":"openinsight"},{"lower":"(windows)"},{"lower":"and"},{"lower":"advanced"},{"lower":"revelation"},{"lower":"(dos)"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"unidata"},{"lower":"rocket"},{"lower":"u2"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"universe"},{"lower":"rocket"},{"lower":"u2"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"allegrograph"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"amazon"},{"lower":"neptune"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"arangodb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"azure"},{"lower":"cosmos"},{"lower":"db"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"dex/sparksee"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"flockdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"ibm"},{"lower":"db2"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"infinitegraph"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"janusgraph"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"marklogic"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"neo4j"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"openlink"},{"lower":"virtuoso"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"oracle"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"orientdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"owlim"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"profium"},{"lower":"sense"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"redisgraph"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"sqrrl"},{"lower":"enterprise"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"terminusdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"aerospike"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"apache"},{"lower":"ignite"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"arangodb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"amazon"},{"lower":"dynamodb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"couchbase"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"couchdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"db2"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"infinitydb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"lmdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"marklogic"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"mongodb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"orientdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"aerospike"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"apache"},{"lower":"ignite"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"arangodb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"berkeley"},{"lower":"db"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"cdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"clusterpoint"},{"lower":"database"},{"lower":"server"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"couchbase"},{"lower":"server"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"dynamo"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"etcd"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"foundationdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"gigaspaces"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"gridgain"},{"lower":"systems"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"gt.m[4]"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"hazelcast"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"hibari"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"ibm"},{"lower":"informix"},{"lower":"c-isam"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"immudb[5]"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"infinitydb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"kvrocks"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"keydb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"keyspace"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"leveldb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"lmdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"memcached"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"memcachedb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"microsoft"},{"lower":"sql"},{"lower":"server"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"nosqlz"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"coherence"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"oracle"},{"lower":"nosql"},{"lower":"database"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"project"},{"lower":"voldemort"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"redis"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"riak[6]"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"rocksdb"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"scylla"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"tarantool"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"tkrzw"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"venti"}],"id":"SKILLS"}
+{"label":"DATABASE","pattern":[{"lower":"openlink"},{"lower":"virtuoso"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"alibaba"},{"lower":"cloud"},{"lower":"(1"},{"lower":"p)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"web"},{"lower":"services"},{"lower":"(42"},{"lower":"p)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"cloud"},{"lower":"databases"},{"lower":"(11"},{"lower":"p)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"google"},{"lower":"cloud"},{"lower":"(20"},{"lower":"p)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"ibm"},{"lower":"cloud"},{"lower":"services"},{"lower":"(13"},{"lower":"p)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"microsoft"},{"lower":"cloud"},{"lower":"services"},{"lower":"(1"},{"lower":"c,"},{"lower":"25"},{"lower":"p)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"open-source"},{"lower":"cloud"},{"lower":"hosting"},{"lower":"services"},{"lower":"(3"},{"lower":"p)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"oracle"},{"lower":"cloud"},{"lower":"services"},{"lower":"(4"},{"lower":"p)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"cloud"},{"lower":"communication"},{"lower":"platforms"},{"lower":"(18"},{"lower":"p)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"airpush"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"alibaba"},{"lower":"cloud"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"elastic"},{"lower":"compute"},{"lower":"cloud"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"elastic"},{"lower":"file"},{"lower":"system"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"elasticache"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"simple"},{"lower":"queue"},{"lower":"service"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"web"},{"lower":"services"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"animoto"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"apache"},{"lower":"cloudstack"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"appscale"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"aptum"},{"lower":"technologies"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"aws"},{"lower":"elastic"},{"lower":"beanstalk"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"azure"},{"lower":"data"},{"lower":"lake"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"azure"},{"lower":"stream"},{"lower":"analytics"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"biobike"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"bosh"},{"lower":"(software)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"bytemark"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"callfire"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"caspio"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"cisco"},{"lower":"unified"},{"lower":"computing"},{"lower":"system"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"citrix"},{"lower":"cloud"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"cloud"},{"lower":"foundry"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"cloud-computing"},{"lower":"comparison"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"cloudbees"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"cloudcontrol"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"cloudsim"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"cloudsnap"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"cocaine"},{"lower":"(paas)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"conself"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"densify"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"digitalocean"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"dimension"},{"lower":"data"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"divvycloud"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"dreamhost"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"e2open"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"engine"},{"lower":"yard"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"enlight"},{"lower":"cloud"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"enstratius"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"eucalyptus"},{"lower":"(software)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"fabasoft"},{"lower":"folio"},{"lower":"cloud"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"fastly"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"firebase"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"fujitsu"},{"lower":"cloud"},{"lower":"iaas"},{"lower":"trusted"},{"lower":"public"},{"lower":"s5"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"function"},{"lower":"as"},{"lower":"a"},{"lower":"service"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"gigas"},{"lower":"(company)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"google"},{"lower":"app"},{"lower":"engine"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"google"},{"lower":"cloud"},{"lower":"platform"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"google"},{"lower":"cloud"},{"lower":"storage"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"google"},{"lower":"compute"},{"lower":"engine"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"google"},{"lower":"container"},{"lower":"engine"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"greenbutton"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"gt"},{"lower":"nexus"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"hammerkit"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"hcentive"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"heroku"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"hp"},{"lower":"cloud"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"hp"},{"lower":"cloudsystem"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"hpe"},{"lower":"helion"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"hybrid"},{"lower":"web"},{"lower":"cluster"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"ibm"},{"lower":"cloud"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"ibm"},{"lower":"cloud"},{"lower":"computing"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"ibm/google"},{"lower":"cloud"},{"lower":"computing"},{"lower":"university"},{"lower":"initiative"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"ieee"},{"lower":"cloud"},{"lower":"computing"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"im"},{"lower":"creator"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"apache"},{"lower":"impala"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"mindsphere"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"jelastic"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"kii"},{"lower":"corporation"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"kong"},{"lower":"inc."}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"magine"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"microsoft"},{"lower":"azure"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"microsoft"},{"lower":"teams"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"moai"},{"lower":"(software)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"nearlyfreespeech"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"nebula"},{"lower":"(computing"},{"lower":"platform)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"netlify"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"netskope"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"ninefold"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"niwa"},{"lower":"cloud"},{"lower":"application"},{"lower":"platform"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"onepager"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"openshift"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"oracle"},{"lower":"cloud"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"oracle"},{"lower":"cloud"},{"lower":"platform"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"oracle"},{"lower":"enterprise"},{"lower":"resource"},{"lower":"planning"},{"lower":"cloud"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"orionvm"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"outsystems"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"perforce"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"platform"},{"lower":"as"},{"lower":"a"},{"lower":"service"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"presto"},{"lower":"(sql"},{"lower":"query"},{"lower":"engine)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"rackspace"},{"lower":"cloud"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"rapyuta"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"rcuda"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"rollbase"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"safe"},{"lower":"swiss"},{"lower":"cloud"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"sap"},{"lower":"cloud"},{"lower":"platform"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"sap"},{"lower":"converged"},{"lower":"cloud"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"sap"},{"lower":"erp"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"sap"},{"lower":"s/4hana"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"scaleway"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"simscale"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"squarespace"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"stratoscale"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"strikingly"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"sun"},{"lower":"cloud"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"tradecard"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"turbot"},{"lower":"(business)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"uk"},{"lower":"government"},{"lower":"g-cloud"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"vcloud"},{"lower":"air"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"verizon"},{"lower":"business"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"vertebra"},{"lower":"(software)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"wavemaker"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"wolf"},{"lower":"frameworks"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"xively"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"yandex.cloud"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"yottabyte"},{"lower":"llc"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"alibaba"},{"lower":"cloud"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"alexa"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"web"},{"lower":"services"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"timeline"},{"lower":"of"},{"lower":"amazon"},{"lower":"web"},{"lower":"services"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"lumberyard"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"polly"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"sagemaker"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"storywriter"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"machine"},{"lower":"image"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"aurora"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"auto-scaling"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"aws"},{"lower":"ground"},{"lower":"station"},{"lower":"unit"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"aws"},{"lower":"cloudformation"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"cloudfront"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"cloudwatch"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"densify"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"documentdb"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"dynamodb"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"elastic"},{"lower":"block"},{"lower":"store"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"ec2"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"elastic"},{"lower":"compute"},{"lower":"cloud"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"aws"},{"lower":"elastic"},{"lower":"beanstalk"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"elastic"},{"lower":"file"},{"lower":"system"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"elastic"},{"lower":"load"},{"lower":"balancing"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"elasticache"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"firecracker"},{"lower":"(software)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"freertos"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"s3"},{"lower":"glacier"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"glue"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"aws"},{"lower":"lambda"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"neptune"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"aws"},{"lower":"opsworks"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"relational"},{"lower":"database"},{"lower":"service"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"redshift"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"rekognition"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"route"},{"lower":"53"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"s3"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"simpledb"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"simple"},{"lower":"notification"},{"lower":"service"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"sqrrl"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"simple"},{"lower":"queue"},{"lower":"service"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"stackdriver"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"virtual"},{"lower":"private"},{"lower":"cloud"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"cloud"},{"lower":"database"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"aurora"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"documentdb"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"dynamodb"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"elasticache"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"neptune"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"relational"},{"lower":"database"},{"lower":"service"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"redshift"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"amazon"},{"lower":"simpledb"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"silk"},{"lower":"platform"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"snowflake"},{"lower":"inc."}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"apigee"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"appsheet"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"bitium"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"chronicle"},{"lower":"security"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"google"},{"lower":"cloud"},{"lower":"connect"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"google"},{"lower":"cloud"},{"lower":"datastore"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"google"},{"lower":"cloud"},{"lower":"messaging"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"google"},{"lower":"cloud"},{"lower":"platform"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"google"},{"lower":"cloud"},{"lower":"print"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"google"},{"lower":"cloud"},{"lower":"dataflow"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"firebase"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"firebase"},{"lower":"cloud"},{"lower":"messaging"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"google"},{"lower":"hangouts"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"kaggle"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"looker"},{"lower":"(company)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"mandiant"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"google"},{"lower":"meet"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"orbitera"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"project"},{"lower":"nightingale"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"google"},{"lower":"workspace"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"ibm"},{"lower":"blueworks"},{"lower":"live"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"cloudant"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"demandtec"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"ibm"},{"lower":"cloud"},{"lower":"computing"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"ibm"},{"lower":"cloud"},{"lower":"video"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"ibm"},{"lower":"quantum"},{"lower":"experience"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"ibm/google"},{"lower":"cloud"},{"lower":"computing"},{"lower":"university"},{"lower":"initiative"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"lotuslive"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"maas"},{"lower":"360"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"silverpop"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"softlayer"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"watson"},{"lower":"(computer)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"weather"},{"lower":"underground"},{"lower":"(weather"},{"lower":"service)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"office"},{"lower":"365"},{"lower":"(3"},{"lower":"p)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"azure"},{"lower":"ad"},{"lower":"connect"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"azure"},{"lower":"cognitive"},{"lower":"search"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"azure"},{"lower":"data"},{"lower":"lake"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"azure"},{"lower":"kinect"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"microsoft"},{"lower":"azure"},{"lower":"sql"},{"lower":"database"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"azure"},{"lower":"stream"},{"lower":"analytics"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"azure"},{"lower":"virtual"},{"lower":"desktop"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"azure"},{"lower":"web"},{"lower":"apps"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"cosmos"},{"lower":"db"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"groove"},{"lower":"music"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"microsoft"},{"lower":"365"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"microsoft"},{"lower":"advertising"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"microsoft"},{"lower":"azure"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"microsoft"},{"lower":"azure"},{"lower":"active"},{"lower":"directory"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"microsoft"},{"lower":"dynamics"},{"lower":"365"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"microsoft"},{"lower":"dynamics"},{"lower":"365"},{"lower":"finance"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"microsoft"},{"lower":"intune"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"microsoft"},{"lower":"to"},{"lower":"do"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"my"},{"lower":"phone"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"my"},{"lower":"windows"},{"lower":"phone"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"spotify"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"storsimple"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"system"},{"lower":"center"},{"lower":"advisor"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"windows"},{"lower":"azure"},{"lower":"caching"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"xbox"},{"lower":"cloud"},{"lower":"gaming"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"bosh"},{"lower":"(software)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"cloud"},{"lower":"foundry"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"openshift"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"oracle"},{"lower":"cloud"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"oracle"},{"lower":"cloud"},{"lower":"platform"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"oracle"},{"lower":"database"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"virtualbox"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"bandwidth"},{"lower":"(company)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"callfire"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"cloud"},{"lower":"communications"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"cm"},{"lower":"(commerce)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"exotel"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"hoiio"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"kaleyra"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"kii"},{"lower":"corporation"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"leaf"},{"lower":"(payment"},{"lower":"platform)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"megapath"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"onforce"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"ringcentral"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"route"},{"lower":"mobile"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"sinch"},{"lower":"(company)"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"snappii"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"twilio"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"unleashed"},{"lower":"software"}],"id":"SKILLS"}
+{"label":"PLATFORM","pattern":[{"lower":"voxeo"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"tensorflow"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"pytorch"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"scikit-learn"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"spark"},{"lower":"ml"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"spark"},{"lower":"mlib"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"spark"},{"lower":"mllib"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"torch"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"huggingface"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"keras"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"automl"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"microsoft"},{"lower":"cognitive"},{"lower":"toolkit"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"caffe"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"theano"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"opencv"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"apache"},{"lower":"spark"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"spacy"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"chainer"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"fasttext"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"dlib"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"theano"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"scipy"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"scikit-learn"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"pandas"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"matplotlib"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"plotly"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"nltk"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"natural"},{"lower":"language"},{"lower":"toolkit"},{"lower":"(nltk)"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"natural"},{"lower":"language"},{"lower":"toolkit"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"mlpack"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"mxnet"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"spacy"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"docker"}],"id":"SKILLS"}
+{"label":"FRAMEWORKS","pattern":[{"lower":"docker"},{"lower":"container"}],"id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"A.NET (A#/A sharp)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"A-0 System","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"A+ (A plus)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ABAP","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ABC","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ABC ALGOL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ACC","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Accent (Rational Synergy)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Ace DASL (Distributed Application Specification Language)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Action!","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ActionScript","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Actor","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Ada","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Adenine (Haystack)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"AdvPL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Agda","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Agilent VEE (Keysight VEE)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Agora","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"AIMMS","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Aldor","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Alef","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ALF","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ALGOL 58","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ALGOL 60","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ALGOL 68","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ALGOL W","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Alice (Alice ML)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Alma-0","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"AmbientTalk","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Amiga E","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"AMOS (AMOS BASIC)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"AMPL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Analitik","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"AngelScript","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Apache Pig latin","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Apex (Salesforce.com, Inc)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"APL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"App Inventor for Android's visual block language (MIT App Inventor)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"AppleScript","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"APT","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Arc","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ARexx","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Argus","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Assembly language (ASM)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"AutoHotkey","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"AutoIt","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"AutoLISP / Visual LISP","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Averest","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"AWK","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Axum","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"B","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Babbage","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Ballerina","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Bash","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"BASIC","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Batch file (Windows/MS-DOS)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"bc (basic calculator)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"BCPL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"BeanShell","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Bertrand","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"BETA","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"BLISS","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Blockly","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"BlooP","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Boo","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Boomerang","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Bosque","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"C \u2013 ISO/IEC 9899","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"C-- (C minus minus)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"C++ (C plus plus) \u2013 ISO/IEC 14882","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"C*","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"C# (C sharp) \u2013 ISO/IEC 23270","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"C/AL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Cach\u00e9 ObjectScript","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"C Shell (csh)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Caml","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Cayenne (Lennart Augustsson)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"CDuce","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Cecil","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"CESIL (Computer Education in Schools Instruction Language)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"C\u00e9u","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Ceylon","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"CFEngine","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Cg (High-Level Shader/Shading Language [HLSL])","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Ch","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Chapel (Cascade High Productivity Language)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Charm","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"CHILL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"CHIP-8","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ChucK","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Cilk (also Cilk++ and Cilk plus)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Control Language","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Claire","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Clarion","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Clean","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Clipper","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"CLIPS","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"CLIST","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Clojure","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"CLU","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"CMS-2","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"COBOL \u2013 ISO/IEC 1989","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"CobolScript \u2013 COBOL Scripting language","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Cobra","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"CoffeeScript","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ColdFusion","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"COMAL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"COMIT","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Common Intermediate Language (CIL)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Common Lisp (also known as CL)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"COMPASS","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Component Pascal","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Constraint Handling Rules (CHR)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"COMTRAN","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Cool","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Coq","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Coral 66","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"CorVision","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"COWSEL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"CPL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Cryptol","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Crystal","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Csound","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Cuneiform","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Curl","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Curry","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Cybil","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Cyclone","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Cypher Query Language","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Cython","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"CEEMAC","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"D","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Dart","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Darwin","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"DataFlex","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Datalog","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"DATATRIEVE","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"dBase","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"dc","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"DCL (DIGITAL Command Language)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Delphi","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"DinkC","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"DIBOL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Dog","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Draco","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"DRAKON","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Dylan","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"DYNAMO","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"DAX (Data Analysis Expressions)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"E","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Ease","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Easy PL/I","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"EASYTRIEVE PLUS","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"eC","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ECMAScript","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Edinburgh IMP","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"EGL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Eiffel","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ELAN","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Elixir","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Elm","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Emacs Lisp","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Emerald","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Epigram","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"EPL (Easy Programming Language)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Erlang","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"es","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Escher","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ESPOL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Esterel","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Etoys","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Euclid","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Euler","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Euphoria","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"EusLisp Robot Programming Language","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"CMS EXEC (EXEC)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"EXEC 2","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Executable UML","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Ezhil","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"F","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"F# (F sharp)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"F*","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Factor","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Fantom","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"FAUST","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"FFP","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"fish","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Fj\u00f6lnir","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"FL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"FlagShip","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Flavors","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Flex","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Flix","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"FlooP","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"FLOW-MATIC (B0)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"FOCAL (Formulating On-Line Calculations in Algebraic Language/FOrmula CALculator)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"FOCUS","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"FOIL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"FORMAC (FORMula MAnipulation Compiler)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"@Formula","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Forth","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Fortran \u2013 ISO/IEC 1539","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Fortress","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"FP","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"FoxBase/FoxPro","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Franz Lisp","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Futhark","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"F-Script","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Game Maker Language (Scripting language)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"GameMonkey Script","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"GAMS (General Algebraic Modeling System)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"GAP","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"G-code","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"GDScript (Godot)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Genie","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"GDL (Geometric Description Language)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"GEORGE","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"GLSL (OpenGL Shading Language)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"GNU E","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"GNU Guile (GNU Ubiquitous Intelligent Language for Extensions)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Go","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Go!","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"GOAL (Game Oriented Assembly Lisp)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"G\u00f6del","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Golo","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"GOM (Good Old Mad)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Google Apps Script","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Gosu","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"GOTRAN (IBM 1620)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"GPSS (General Purpose Simulation System)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"GraphTalk (Computer Sciences Corporation)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"GRASS","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Grasshopper","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Groovy (Apache Groovy)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Hack","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"HAGGIS","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"HAL/S","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Halide (programming language)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Hamilton C shell","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Harbour","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Hartmann pipelines","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Haskell","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Haxe","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Hermes","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"High Level Assembly (HLA)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"HLSL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Hollywood","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"HolyC (TempleOS)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Hop","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Hopscotch","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Hope","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Hume","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"HyperTalk","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Io","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Icon","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"IBM Basic assembly language","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"IBM HAScript","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"IBM Informix-4GL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"IBM RPG","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"IDL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Idris","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Inform","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ISLISP","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"J","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"J# (J sharp)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"J++ (J plus plus)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"JADE","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Jai","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"JAL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Janus (concurrent constraint programming language)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Janus (time-reversible computing programming language)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"JASS","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Java","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"JavaFX Script","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"JavaScript","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Jess","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"JCL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"JEAN","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Join Java","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"JOSS","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Joule","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"JOVIAL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Joy","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"JScript","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"JScript .NET","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Julia","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Jython","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"K","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Kaleidoscope","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Karel","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"KEE","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Kixtart","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Klerer-May System","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"KIF (Knowledge Interchange Format)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Kojo","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Kotlin","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"KRC","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"KRL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"KRL (KUKA Robot Language)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"KRYPTON","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"KornShell (ksh)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Kodu","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Kv (Kivy)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"LabVIEW","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Ladder","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"LANSA","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Lasso","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Lava","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"LC-3","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Lean","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Legoscript","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Lexico","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"LIL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"LilyPond","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Limbo","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Limnor","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"LINC","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Lingo","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"LINQ","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"LIS","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"LISA","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Language H","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Lisp \u2013 ISO/IEC 13816","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Lite-C","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Lithe","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Little b","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"LLL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Logo","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Logtalk","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"LotusScript","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"LPC","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"LSE","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"LSL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"LiveCode","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"LiveScript","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Lua","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Lucid","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Lustre","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"LYaPAS","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Lynx","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"M Formula language","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"M2001","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"M4","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"M#","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Machine code","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"MAD (Michigan Algorithm Decoder)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"MAD/I","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Magik","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Magma","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"M\u00e1ni","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Maple","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"MAPPER (now part of BIS)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"MARK-IV (now VISION:BUILDER)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Mary","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"MATLAB","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"MASM Microsoft Assembly x86","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"MATH-MATIC","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Maude system","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Maxima (see also Macsyma)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Max (Max Msp \u2013 Graphical Programming Environment)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"MaxScript internal language 3D Studio Max","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Maya (MEL)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"MDL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Mercury","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Mesa","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"MHEG-5 (Interactive TV programming language)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Microcode","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"MicroScript","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Microsoft Power Fx","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"MIIS","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Milk (programming language)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"MIMIC","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Mirah","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Miranda","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"MIVA Script","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ML","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Model 204","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Modelica","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Modula","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Modula-2","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Modula-3","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Mohol","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"MOO","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Mortran","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Mouse","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"MPD","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"MSL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"MUMPS","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"MuPAD","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Mutan","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Mystic Programming Language (MPL)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"NASM","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Napier88","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Neko","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Nemerle","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"NESL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Net.Data","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"NetLogo","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"NetRexx","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"NewLISP","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"NEWP","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Newspeak","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"NewtonScript","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Nial","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Nickle (NITIN)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Nim","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Nix (Systems configuration language)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"NPL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Not eXactly C (NXC)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Not Quite C (NQC)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"NSIS","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Nu","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"NWScript","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"NXT-G","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"o:XML","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Oak","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Oberon","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"OBJ2","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Object Lisp","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ObjectLOGO","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Object REXX","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Object Pascal","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Objective-C","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Objective-J","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Obliq","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"OCaml","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"occam","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"occam-\u03c0","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Octave","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"OmniMark","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Opa","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Opal","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Open Programming Language (OPL)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"OpenCL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"OpenEdge Advanced Business Language (ABL)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"OpenVera","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"OPS5","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"OptimJ","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Orc","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ORCA/Modula-2","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Oriel","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Orwell","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Oxygene","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Oz","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"P","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"P4","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"P\u2032\u2032","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ParaSail","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PARI/GP","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Pascal \u2013 ISO 7185","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Pascal Script","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PCASTL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PCF","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PEARL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PeopleCode","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Perl","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PDL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Pharo","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PHP","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Pico","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Picolisp","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Pict","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Pike","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PILOT","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Pipelines","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Pizza","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PL-11","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PL/0","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PL/B","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PL/C","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PL/I \u2013 ISO 6160","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PL/M","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PL/P","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PL/S","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PL/SQL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PL360","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PLANC","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Plankalk\u00fcl","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Planner","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PLEX","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PLEXIL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Plus","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"POP-11","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"POP-2","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PostScript","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PortablE","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"POV-Ray SDL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Powerhouse","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PowerBuilder \u2013 4GL GUI application generator from Sybase","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PowerShell","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PPL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Processing","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Processing.js","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Prograph","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Project Verona","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Prolog","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PROMAL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Promela","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PROSE modeling language","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PROTEL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ProvideX","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Pro*C","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Pure","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Pure Data","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PureScript","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"PWCT","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Python","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Q (programming language from Kx Systems)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Q# (Microsoft programming language)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Qalb","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Quantum Computation Language","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"QtScript","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"QuakeC","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"QPL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":".QL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"R","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"R++","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Racket","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Raku","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"RAPID","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Rapira","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Ratfiv","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Ratfor","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"rc","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Reason","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"REBOL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Red","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Redcode","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"REFAL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"REXX","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Ring","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ROOP","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"RPG","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"RPL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"RSL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"RTL/2","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Ruby","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Rust","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"S","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"S2","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"S3","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"S-Lang","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"S-PLUS","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SA-C","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SabreTalk","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SAIL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SAKO","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SAS","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SASL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Sather","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Sawzall","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Scala","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Scheme","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Scilab","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Scratch","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Script.NET","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Sed","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Seed7","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Self","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SenseTalk","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SequenceL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Serpent","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SETL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Short Code","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SIMPOL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SIGNAL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SiMPLE","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SIMSCRIPT","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Simula","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Simulink","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SISAL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SLIP","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SMALL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Smalltalk","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SML","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Strongtalk","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Snap!","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SNOBOL (SPITBOL)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Snowball","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SOL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Solidity","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SOPHAEROS","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Source","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SPARK","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Speakeasy","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Speedcode","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SPIN","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SP/k","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SPS","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SQL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SQR","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Squeak","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Squirrel","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SR","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"S/SL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Starlogo","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Strand","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Stata","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Stateflow","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Subtext","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SBL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SuperCollider","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Superplan","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SuperTalk","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Swift (Apple programming language)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Swift (parallel scripting language)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"SYMPL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"T","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"TACL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"TACPOL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"TADS (Text Adventure Development System)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"TAL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Tcl","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Tea","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"TECO (Text Editor and Corrector)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"TELCOMP","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"TeX","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"TEX (Text Executive Programming Language)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"TIE","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"TMG (TransMo Griffer), compiler-compiler","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Tom","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Toi","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Topspeed (Clarion)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"TPU (Text Processing Utility)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Trac","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"TTM","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"T-SQL (Transact-SQL)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Transcript (LiveCode)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"TTCN (Tree and Tabular Combined Notation)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Turing","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"TUTOR (PLATO Author Language)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"TXL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"TypeScript","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Tynker","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Ubercode","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"UCSD Pascal","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Umple","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Unicon","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Uniface","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"UNITY","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"UnrealScript","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Vala","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Vim script","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Viper (Ethereum/Ether (ETH))","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Visual DataFlex","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Visual DialogScript","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Visual FoxPro","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Visual J++ (Visual J plus plus)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Visual LISP","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Visual Objects","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Visual Prolog","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"WATFIV, WATFOR (WATerloo FORtran IV)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"WebAssembly","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"WebDNA","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Whiley","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Winbatch","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Wolfram Language","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Wyvern","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"X++ (X plus plus/Microsoft Dynamics AX)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"X10","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"xBase++ (xBase plus plus)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"XBL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"XC (targets XMOS architecture)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"xHarbour","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"XL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Xojo","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"XOTcl","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Xod","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"XPL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"XPL0","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"XQuery","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"XSB","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"XSharp (X#)","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"XSLT","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Xtend","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Yorick","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"YQL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Yoix","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Z notation","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Z shell","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Zebra, ZPL, ZPL2","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Zeno","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ZetaLisp","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Zig","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ZOPL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"ZPL","id":"SKILLS"}
+{"label":"PROG_LANG","pattern":"Z++","id":"SKILLS"}
