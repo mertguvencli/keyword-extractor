@@ -16,3 +16,4 @@ nbformat
 streamlit
 spacy_streamlit
 lxml
+kaleido

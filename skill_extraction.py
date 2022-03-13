@@ -1,7 +1,9 @@
+from time import time
 import nltk
 import spacy
 import ssl
 import concurrent.futures
+import re
 
 ssl._create_default_https_context = ssl._create_unverified_context
 nltk.download('stopwords')
@@ -16,13 +18,20 @@ ruler = nlp.add_pipe("entity_ruler", before="ner")
 ruler.from_disk("data/patterns.jsonl")
 
 
+def text_cleansing(text: str) -> str:
+    # remove punctuations
+    text = re.sub('[^\w\s]', ' ', text)
+    # remove stopwords
+    text = " ".join(x for x in text.split() if x not in sw)
+    return text
+
+
 def extract(row_id):
+    start = time()
     text = Db().get_job_description(row_id)
+    text = text_cleansing(text)
     doc = nlp(text)
-    frameworks = []
-    databases = []
-    platforms = []
-    prog_langs = []
+    frameworks, databases, platforms, prog_langs = [], [], [], []
 
     for entity in doc.ents:
         if entity.ent_id_ == 'SKILLS':
@@ -35,12 +44,13 @@ def extract(row_id):
             if entity.label_ == 'FRAMEWORKS' and entity.text not in frameworks:
                 frameworks.append(entity.text)
 
-    frameworks = " ".join(frameworks)
-    databases = " ".join(databases)
-    platform = " ".join(platform)
     prog_langs = " ".join(prog_langs)
-    data = (prog_langs, platform, databases, frameworks, row_id)
+    platforms = " ".join(platforms)
+    databases = " ".join(databases)
+    frameworks = " ".join(frameworks)
+    data = (prog_langs, platforms, databases, frameworks, row_id)
     Db().update_skilss(data)
+    print(f'row_id: {row_id} elapsed: {time()-start:.2f}')
 
 
 if __name__ == '__main__':
